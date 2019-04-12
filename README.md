@@ -34,3 +34,5 @@ repo init -u https://github.com/android2orangepi-dev/android_allwinner_manifest 
 repo sync -j1
 ```
 
+Read additional information about [repo using](https://source.android.com/setup/build/downloading.html)
+
